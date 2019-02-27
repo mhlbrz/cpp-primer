@@ -9,3 +9,5 @@
 
 # vim swp
 *.swp
+
+*a.out
