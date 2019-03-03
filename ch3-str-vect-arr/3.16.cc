@@ -4,4 +4,9 @@
 
 using namespace std;
 
-int main(void) { return 0; }
+int main(void) {
+
+  // refer to 3.13
+
+  return 0;
+}
