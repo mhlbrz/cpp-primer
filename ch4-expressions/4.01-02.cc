@@ -13,8 +13,5 @@ int main(void) {
   char p1 = *v.begin();
   std::cout << "p1=" << p1 << std::endl;
 
-  char p2 = (*v)->begin();
-  std::cout << "p2=" << p2 << std::endl;
-
   return 0;
 }
