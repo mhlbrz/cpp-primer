@@ -45,11 +45,11 @@ int main(void) {
   bool ans;
 
   ans = cmp2(v1, v2);
-  std::cout << "ans = " << ans << std::endl;
+  std::cout << "v1==v2 = " << ans << std::endl;
   ans = cmp2(v1, v3);
-  std::cout << "ans = " << ans << std::endl;
+  std::cout << "v1==v3 = " << ans << std::endl;
   ans = cmp2(v1, v4);
-  std::cout << "ans = " << ans << std::endl;
+  std::cout << "v1==v4 = " << ans << std::endl;
 
   return 0;
 }
