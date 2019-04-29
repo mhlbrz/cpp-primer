@@ -1,3 +1,4 @@
+// swap by pointer
 #include <iostream>
 void swap(int *i, int *i1) {
   int t = *i;
